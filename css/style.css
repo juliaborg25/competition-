@@ -1,0 +1,19 @@
+#horizontal-image {
+  width: 57%;
+}
+
+.container h1 {
+  font-size: 5rem;
+  color: white;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.row {
+  margin-bottom: 30px;
+}
+
+.row img {
+  width: 100%;
+  height: auto;
+}
